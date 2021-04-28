@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "996829761368",
+    "project_id": "todo-f0fc7",
+    "storage_bucket": "todo-f0fc7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:996829761368:android:e3b181ea5e1f36533c5f2d",
+        "android_client_info": {
+          "package_name": "com.saloj.android.wes_task_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "996829761368-7g05di2aqbmt9bjcicrl7j1l90c7k6kl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATKAYRd955H6vDE9kLPgwfdS-KYrfkAb0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "996829761368-7g05di2aqbmt9bjcicrl7j1l90c7k6kl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
